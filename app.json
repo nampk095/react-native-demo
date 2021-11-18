@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DatoCMS WMF 2018",
-    "slug": "datocms-wmf",
+    "name": "MQD DatoCMS REECTNATIVE APP",
+    "slug": "mqd-datocms-reectnative-app",
     "privacy": "public",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
@@ -32,6 +32,6 @@
       "ios"
     ],
     "description": "This app is a Demo app for using DatoCMS contents via GraphQL api on a React Native app.",
-    "githubUrl": "https://github.com/datocms/react-native-demo"
+    "githubUrl": "https://github.com/nampk095/react-native-demo"
   }
 }
