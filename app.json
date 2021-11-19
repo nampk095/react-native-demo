@@ -19,12 +19,12 @@
       "config": "metro.config.js"
     },
     "ios": {
-      "bundleIdentifier": "com.datocms.wmf",
+      "bundleIdentifier": "sk.mqd.wmf",
       "buildNumber": "0.0.1",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.datocms.wmf",
+      "package": "sk.mqd.wmf",
       "versionCode": 1
     },
     "platforms": [
